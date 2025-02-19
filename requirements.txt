@@ -1,0 +1,14 @@
+accelerate==0.28.0
+datasets==2.18.0
+einops==0.8.0
+flash_attn==2.7.2.post1
+numpy==2.2.0
+pytest==8.3.3
+ring_flash_attn==0.1
+scipy==1.14.1
+torch==2.3.1
+tqdm==4.66.5
+transformers==4.39.1
+triton==2.3.1
+xformers==0.0.28.post3
+yunchang==0.5.0
